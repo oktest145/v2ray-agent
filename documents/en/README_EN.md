@@ -5,7 +5,6 @@
 - [Cloudflare Optimization Solutions](https://github.com/oktest145/v2ray-agent/blob/master/documents/optimize_V2Ray.md)
 - [Traffic Transit Tutorial](https://github.com/oktest145/v2ray-agent/blob/master/documents/traffic_relay.md)
 - [SSH Getting Started Tutorial](https://www.v2ray-agent.com/2020-12-16-ssh%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
-- [TG Group](https://t.me/technologyshare)、[TG Channel](https://t.me/v2rayagentshare)、[Blog](https://www.v2ray-agent.com/)
 - Welcome Pull request
 
 * * *
@@ -108,17 +107,6 @@
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/oktest145/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
-- Stable-v2.2.24
-
-```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/oktest145/v2ray-agent/9ae23c13a56460d8c14f27c8eb65efc73b173f46/install.sh" && chmod 700 /root/install.sh && /root/install.sh
-```
-
-- Stable-v2.1.27
-
-```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/oktest145/v2ray-agent/3f8ea0aa364ae2e1e407056074c11b448396261f/install.sh" && chmod 700 /root/install.sh && /root/install.sh
-```
 
 - Example diagram
 
